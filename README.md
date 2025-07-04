@@ -1,2 +1,9 @@
 # E-TRADE
-Örnek bir çevrimdışı e ticaret platform tasarımı . İş gereksinimleri dökümanı,kullanıcı senaryoları ve use case diyagramları , veritabanı tasarımı ,wireframe tasarımı ve mockup tasarımı , proje teslimi teslim planı mevcuttur.
+Bu çalışma, örnek bir çevrimdışı e-ticaret platformu tasarımıdır.
+Tüm analiz ve tasarım adımları eksiksiz şekilde ele alınmıştır. Proje kapsamında aşağıdaki içerikler yer almaktadır:
+
+İş gereksinimleri dokümanı
+Kullanıcı senaryoları ve Use Case diyagramları
+Veritabanı tasarımı
+Wireframe ve mockup tasarımları
+Proje teslim planı
